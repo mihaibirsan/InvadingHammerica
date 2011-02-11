@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Risk-Map/HayJaWestB" itemID="4d545121-00000abf" linkageExportForAS="true" linkageIdentifier="HayJaWestB" linkageBaseClass="risk.ui.Territory" linkageClassName="HayJaWestB" lastModified="1297371720" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="HayJaWestB">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#82368C"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="3" joints="miter" miterLimit="10">
+                        <fill>
+                          <SolidColor color="#1D1D1B"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!30 163|30 2485!30 2485|1913 2261!1913 2261|1793 32!1793 32|30 163"/>
+                    <Edge cubics="!30 163(30,163;30,163 30,2485 30,2485q30 163p30 2485);"/>
+                    <Edge cubics="!30 2485(30,2485;30,2485 1913,2261 1913,2261q30 2485p1913 2261);"/>
+                    <Edge cubics="!1913 2261(1913,2261;1913,2261 1793,32 1793,32q1913 2261p1793 32);"/>
+                    <Edge cubics="!1793 32(1793,32;1793,32 30,163 30,163q1793 32p30 163);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

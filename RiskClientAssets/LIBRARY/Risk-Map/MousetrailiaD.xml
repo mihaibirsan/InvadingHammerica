@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Risk-Map/MousetrailiaD" itemID="4d545121-00000aa5" linkageExportForAS="true" linkageIdentifier="MousetrailiaD" linkageBaseClass="risk.ui.Territory" linkageClassName="MousetrailiaD" lastModified="1297371719" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="MousetrailiaD">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFDE00"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="3" joints="miter" miterLimit="10">
+                        <fill>
+                          <SolidColor color="#1D1D1B"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!1735 262|708 33!708 33|37 963!37 963|37 964!37 964|708 1816!708 1816|2387 1565!2387 1565|1735 262"/>
+                    <Edge cubics="!708 1816(;708,1816 2387,1565 2387,1565q708 1816p2387 1565);"/>
+                    <Edge cubics="!2387 1565(;2387,1565 1735,262 1735,262q2387 1565p1735 262);"/>
+                    <Edge cubics="!1735 262(;1735,262 708,33 708,33q1735 262p708 33);"/>
+                    <Edge cubics="!708 33(;708,33 37,963 37,963q708 33p37 963);"/>
+                    <Edge cubics="!37 963(37,963;37,963 37,964 37,964q37 963p37 964);"/>
+                    <Edge cubics="!37 964(;37,964 708,1816 708,1816q37 964p708 1816);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

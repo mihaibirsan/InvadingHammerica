@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Risk-Map/HayJaEastC" itemID="4d545121-00000ab3" linkageExportForAS="true" linkageIdentifier="HayJaEastC" linkageBaseClass="risk.ui.Territory" linkageClassName="HayJaEastC" lastModified="1297371720" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="HayJaEastC">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#00983A"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="3" joints="miter" miterLimit="10">
+                        <fill>
+                          <SolidColor color="#1D1D1B"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!30 1676|2471 2418!2471 2418|1826 51!1826 51[1371 399 956 661!956 661[488 957 30 1172!30 1172|30 1676"/>
+                    <Edge cubics="!2471 2418(;2471,2418 1826,51 1826,51q2471 2418 1826 51);"/>
+                    <Edge cubics="!1826 51(;1258,485 672,871 30,1172q1826 51Q1371 399q956 661Q488 957q30 1172);"/>
+                    <Edge cubics="!30 1172(;30,1172 30,1676 30,1676q30 1172 30 1676);"/>
+                    <Edge cubics="!30 1676(;30,1676 2471,2418 2471,2418q30 1676 2471 2418);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

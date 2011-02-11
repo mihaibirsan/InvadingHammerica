@@ -1,0 +1,110 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="GameView" itemID="4d531036-0000065b" linkageExportForAS="true" linkageClassName="risk.views.GameView" sourceLibraryItemHRef="Symbol 1" lastModified="1297404799" lastUniqueIdentifier="9" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="GameView">
+      <layers>
+        <DOMLayer name="More UI" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="BidUI" name="bidUI" centerPoint3DX="395" centerPoint3DY="565">
+                  <matrix>
+                    <Matrix tx="300" ty="540"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Obstructor" color="#9933CC" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Obstructor" name="obstructor" centerPoint3DX="320" centerPoint3DY="320">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Base UI" color="#0000FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-29.8"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!13396 12800|596 12800!596 12800|596 0!596 0|13396 0!13396 0|13396 12800"/>
+                    <Edge cubics="!13396 12800(;13396,12800 596,12800 596,12800q13396 12800p596 12800);"/>
+                    <Edge cubics="!596 12800(;596,12800 596,0 596,0q596 12800p596 0);"/>
+                    <Edge cubics="!596 0(;596,0 13396,0 13396,0q596 0p13396 0);"/>
+                    <Edge cubics="!13396 0(;13396,0 13396,12800 13396,12800q13396 0p13396 12800);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Risk-Map/Territories" name="territories" centerPoint3DX="320" centerPoint3DY="320">
+                  <matrix>
+                    <Matrix tx="-29.8" ty="50.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Risk-Map/TerritoryNames" name="territoryNames" centerPoint3DX="304.95" centerPoint3DY="323.3">
+                  <matrix>
+                    <Matrix tx="15.65" ty="96.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="OtherPlayerUI" name="otherPlayerUI1" centerPoint3DX="110" centerPoint3DY="35">
+                  <matrix>
+                    <Matrix tx="10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PlayerUI" name="playerUI" centerPoint3DX="320" centerPoint3DY="605">
+                  <matrix>
+                    <Matrix tx="10" ty="570"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="OtherPlayerUI" name="otherPlayerUI2" centerPoint3DX="320" centerPoint3DY="35">
+                  <matrix>
+                    <Matrix tx="220"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="OtherPlayerUI" name="otherPlayerUI3" centerPoint3DX="530" centerPoint3DY="35">
+                  <matrix>
+                    <Matrix tx="430"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

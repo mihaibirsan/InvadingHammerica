@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Risk-Map/HayJaWestD" itemID="4d545121-00000abb" linkageExportForAS="true" linkageIdentifier="HayJaWestD" linkageBaseClass="risk.ui.Territory" linkageClassName="HayJaWestD" lastModified="1297371720" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="HayJaWestD">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#82368C"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="3" joints="miter" miterLimit="10">
+                        <fill>
+                          <SolidColor color="#1D1D1B"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!2836 35|30 368!30 368|30 1657!30 1657|2580 1308!2580 1308|2836 35"/>
+                    <Edge cubics="!30 1657(30,1657;30,1657 2580,1308 2580,1308q30 1657p2580 1308);"/>
+                    <Edge cubics="!2580 1308(2580,1308;2580,1308 2836,35 2836,35q2580 1308p2836 35);"/>
+                    <Edge cubics="!2836 35(2836,35;2836,35 30,368 30,368q2836 35p30 368);"/>
+                    <Edge cubics="!30 368(;30,368 30,1657 30,1657q30 368 30 1657);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

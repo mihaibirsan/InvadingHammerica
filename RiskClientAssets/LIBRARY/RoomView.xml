@@ -1,0 +1,312 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="RoomView" itemID="4d531042-0000065d" linkageExportForAS="true" linkageClassName="risk.views.RoomView" sourceLibraryItemHRef="Lobby copy" lastModified="1297396065" lastUniqueIdentifier="16" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="RoomView">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" pixelHinting="true">
+                        <fill>
+                          <SolidColor color="#CCCCCC"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!7060 2980/7060 2800!7060 2800/6600 2800!6600 2800[6500 2800 6500 2900!6500 2900|6500 3800!6500 3800/12300 3800!12300 3800/12300 2900!12300 2900[12300 2800 12200 2800!12200 2800/8060 2800!8060 2800/8060 2980!8060 2620/8060 2800!7060 2620
+/7060 2800"/>
+                    <Edge cubics="!12300 1100(;12300,1033 12267,1000 12200,1000q12300 1100Q12300 1000q12200 1000);"/>
+                    <Edge cubics="!12300 2000(;12300,2000 12300,1100 12300,1100q12300 2000 12300 1100);"/>
+                    <Edge cubics="!6600 1000(;6533,1000 6500,1033 6500,1100q6600 1000Q6500 1000q6500 1100);"/>
+                    <Edge cubics="!6500 1100(;6500,1100 6500,2000 6500,2000q6500 1100 6500 2000);"/>
+                    <Edge cubics="!6500 2000(;6500,2000 12300,2000 12300,2000q6500 2000 12300 2000);"/>
+                    <Edge cubics="!12200 1000(12200,1000;12200,1000 8719,1000 8719,1000q12200 1000 8719 1000)8719,1000;"/>
+                    <Edge cubics="!8719 1000(8719,1000;8719,1000 8360,1000 8360,1000q8719 1000 8360 1000)8360,1000;"/>
+                    <Edge cubics="!7060 1000(;7060,1000 6600,1000 6600,1000q7060 1000 6600 1000);"/>
+                    <Edge cubics="!7060 1000(;7060,1000 7060,1180 7060,1180q7060 1000 7060 1180);"/>
+                    <Edge cubics="!8360 1000(;8360,1000 8360,1180 8360,1180q8360 1000 8360 1180);"/>
+                    <Edge cubics="!8360 820(;8360,820 8360,1000 8360,1000q8360 820 8360 1000);"/>
+                    <Edge cubics="!7060 820(7060,820;7060,820 7060,1000 7060,1000q7060 820 7060 1000);"/>
+                    <Edge cubics="!2200 1700(2200,1700;2200,1700 2200,1900 2200,1900q2200 1700 2200 1900);"/>
+                    <Edge cubics="!12300 2900(;12300,2833 12267,2800 12200,2800q12300 2900Q12300 2800q12200 2800);"/>
+                    <Edge cubics="!12300 3800(;12300,3800 12300,2900 12300,2900q12300 3800 12300 2900);"/>
+                    <Edge cubics="!6600 2800(;6533,2800 6500,2833 6500,2900q6600 2800Q6500 2800q6500 2900);"/>
+                    <Edge cubics="!6500 2900(;6500,2900 6500,3800 6500,3800q6500 2900 6500 3800);"/>
+                    <Edge cubics="!6500 3800(;6500,3800 12300,3800 12300,3800q6500 3800 12300 3800);"/>
+                    <Edge cubics="!12200 2800(;12200,2800 8060,2800 8060,2800q12200 2800 8060 2800);"/>
+                    <Edge cubics="!7060 2800(;7060,2800 6600,2800 6600,2800q7060 2800 6600 2800);"/>
+                    <Edge cubics="!7060 2800(;7060,2800 7060,2980 7060,2980q7060 2800 7060 2980);"/>
+                    <Edge cubics="!8060 2800(;8060,2800 8060,2980 8060,2980q8060 2800 8060 2980);"/>
+                    <Edge cubics="!8060 2620(;8060,2620 8060,2800 8060,2800q8060 2620 8060 2800);"/>
+                    <Edge cubics="!7060 2620(7060,2620;7060,2620 7060,2800 7060,2800q7060 2620 7060 2800);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="596" height="44.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="22" ty="22"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Risk New World</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="36" bitmapSize="720" face="MyriadPro-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMComponentInstance libraryItemName="Button" name="leaveRoomButton" centerPoint3DX="67.5" centerPoint3DY="81" uniqueID="7">
+                  <matrix>
+                    <Matrix a="0.849929809570313" tx="25" ty="70"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='RoomView' oldCopiedComponentPath='7'>
+</component>
+]]></dataBindingXML>
+                  <parametersAsXML><![CDATA[   <property id="emphasized">
+      <Inspectable name="emphasized" variable="emphasized" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="label">
+      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="Back to Lobby" type="String"/>
+   </property>
+   <property id="labelPlacement">
+      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
+   </property>
+   <property id="selected">
+      <Inspectable name="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="toggle">
+      <Inspectable name="toggle" variable="toggle" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+                <DOMComponentInstance libraryItemName="Button" name="readyButton" centerPoint3DX="55" centerPoint3DY="171" uniqueID="8">
+                  <matrix>
+                    <Matrix a="0.599960327148438" tx="25" ty="160"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='RoomView' oldCopiedComponentPath='8'>
+</component>
+]]></dataBindingXML>
+                  <parametersAsXML><![CDATA[   <property id="emphasized">
+      <Inspectable name="emphasized" variable="emphasized" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="label">
+      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="I'm Ready" type="String"/>
+   </property>
+   <property id="labelPlacement">
+      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
+   </property>
+   <property id="selected">
+      <Inspectable name="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="toggle">
+      <Inspectable name="toggle" variable="toggle" category="" verbose="0" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+                <DOMComponentInstance libraryItemName="List" name="playerList" centerPoint3DX="371.85" centerPoint3DY="250" uniqueID="10">
+                  <matrix>
+                    <Matrix a="3.00010681152344" d="1.60000610351563" tx="320" ty="200"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='RoomView' oldCopiedComponentPath='10'>
+</component>
+]]></dataBindingXML>
+                  <parametersAsXML><![CDATA[   <property id="allowMultipleSelection">
+      <Inspectable name="allowMultipleSelection" variable="allowMultipleSelection" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="dataProvider">
+      <Inspectable name="dataProvider" variable="dataProvider" category="" verbose="0" defaultValue="fl.data.DataProvider, fl.data.SimpleCollectionItem, item, 0, 0" type="Collection"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="horizontalLineScrollSize">
+      <Inspectable name="horizontalLineScrollSize" variable="horizontalLineScrollSize" category="" verbose="0" defaultValue="4" type="Number"/>
+   </property>
+   <property id="horizontalPageScrollSize">
+      <Inspectable name="horizontalPageScrollSize" variable="horizontalPageScrollSize" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="horizontalScrollPolicy">
+      <Inspectable name="horizontalScrollPolicy" variable="horizontalScrollPolicy" category="" verbose="0" defaultValue="off" enumeration="on,off,auto" type="List"/>
+   </property>
+   <property id="verticalLineScrollSize">
+      <Inspectable name="verticalLineScrollSize" variable="verticalLineScrollSize" category="" verbose="0" defaultValue="4" type="Number"/>
+   </property>
+   <property id="verticalPageScrollSize">
+      <Inspectable name="verticalPageScrollSize" variable="verticalPageScrollSize" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="verticalScrollPolicy">
+      <Inspectable name="verticalScrollPolicy" variable="verticalScrollPolicy" category="" verbose="0" defaultValue="off" enumeration="on,off,auto" type="List"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+                <DOMDynamicText name="roomTitle" width="596" height="44.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="22" ty="112"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Battlefield</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="36" bitmapSize="720" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMComponentInstance libraryItemName="Label" name="nameLabel" centerPoint3DX="355.1" centerPoint3DY="165.5" uniqueID="11">
+                  <matrix>
+                    <Matrix a="0.399993896484375" d="0.68182373046875" tx="335" ty="158"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.15"/>
+                  </transformationPoint>
+                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='RoomView' oldCopiedComponentPath='11'>
+</component>
+]]></dataBindingXML>
+                  <parametersAsXML><![CDATA[   <property id="autoSize">
+      <Inspectable name="autoSize" variable="autoSize" category="" verbose="0" defaultValue="none" enumeration="left,center,right,none" type="List"/>
+   </property>
+   <property id="condenseWhite">
+      <Inspectable name="condenseWhite" variable="condenseWhite" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="htmlText">
+      <Inspectable name="htmlText" variable="htmlText" category="" verbose="0" defaultValue="" type="String"/>
+   </property>
+   <property id="selectable">
+      <Inspectable name="selectable" variable="selectable" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="text">
+      <Inspectable name="text" variable="text" category="" verbose="0" defaultValue="Name" type="String"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="wordWrap">
+      <Inspectable name="wordWrap" variable="wordWrap" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+                <DOMComponentInstance libraryItemName="TextInput" name="roomNameField" centerPoint3DX="455" centerPoint3DY="168" uniqueID="12">
+                  <matrix>
+                    <Matrix a="2.25" d="0.909088134765625" tx="380" ty="158"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='RoomView' oldCopiedComponentPath='12'>
+</component>
+]]></dataBindingXML>
+                  <parametersAsXML><![CDATA[   <property id="displayAsPassword">
+      <Inspectable name="displayAsPassword" variable="displayAsPassword" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="editable">
+      <Inspectable name="editable" variable="editable" category="" verbose="0" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="maxChars">
+      <Inspectable name="maxChars" variable="maxChars" category="" verbose="0" defaultValue="32.00" type="Number"/>
+   </property>
+   <property id="restrict">
+      <Inspectable name="restrict" variable="restrict" category="" verbose="0" defaultValue="" type="String"/>
+   </property>
+   <property id="text">
+      <Inspectable name="text" variable="text" category="" verbose="0" defaultValue="Battlefield" type="String"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+                <DOMStaticText width="41" height="17.35" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="357" ty="131"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Room </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="14" bitmapSize="280" face="MyriadPro-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="PersonalDataUI" name="personal" centerPoint3DX="470" centerPoint3DY="68.5">
+                  <matrix>
+                    <Matrix tx="325" ty="38"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMComponentInstance libraryItemName="Button" name="beginBattleButton" centerPoint3DX="131" centerPoint3DY="171" uniqueID="16">
+                  <matrix>
+                    <Matrix a="0.719879150390625" tx="95" ty="160"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='RoomView' oldCopiedComponentPath='16'>
+</component>
+]]></dataBindingXML>
+                  <parametersAsXML><![CDATA[   <property id="emphasized">
+      <Inspectable name="emphasized" variable="emphasized" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="label">
+      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="Begin Battle" type="String"/>
+   </property>
+   <property id="labelPlacement">
+      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
+   </property>
+   <property id="selected">
+      <Inspectable name="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="toggle">
+      <Inspectable name="toggle" variable="toggle" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

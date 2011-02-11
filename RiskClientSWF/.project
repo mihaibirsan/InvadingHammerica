@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>RiskClientSWF</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] lib-src</name>
+			<type>2</type>
+			<locationURI>DOCUMENTS/common/lib-src</locationURI>
+		</link>
+		<link>
+			<name>[source path] shared-src</name>
+			<type>2</type>
+			<locationURI>DOCUMENTS/common/shared-src</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

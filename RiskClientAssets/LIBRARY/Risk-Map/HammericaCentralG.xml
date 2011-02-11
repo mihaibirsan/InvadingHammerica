@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Risk-Map/HammericaCentralG" itemID="4d545121-00000ad1" linkageExportForAS="true" linkageIdentifier="HammericaCentralG" linkageBaseClass="risk.ui.Territory" linkageClassName="HammericaCentralG" lastModified="1297371721" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="HammericaCentralG">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#27348B"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="3" joints="miter" miterLimit="10">
+                        <fill>
+                          <SolidColor color="#1D1D1B"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!3355 268|1269 32!1269 32|53 2102!53 2102|3355 1978!3355 1978|3355 268"/>
+                    <Edge cubics="!3355 268(;3355,268 1269,32 1269,32q3355 268p1269 32);"/>
+                    <Edge cubics="!1269 32(;1269,32 53,2102 53,2102q1269 32p53 2102);"/>
+                    <Edge cubics="!53 2102(53,2102;53,2102 3355,1978 3355,1978q53 2102p3355 1978);"/>
+                    <Edge cubics="!3355 1978(;3355,1978 3355,268 3355,268q3355 1978 3355 268);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

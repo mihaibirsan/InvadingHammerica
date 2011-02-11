@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Risk-Map/MousetrailiaE" itemID="4d545121-00000aa3" linkageExportForAS="true" linkageIdentifier="MousetrailiaE" linkageBaseClass="risk.ui.Territory" linkageClassName="MousetrailiaE" lastModified="1297371719" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="MousetrailiaE">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFDE00"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="3" joints="miter" miterLimit="10">
+                        <fill>
+                          <SolidColor color="#1D1D1B"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!34 637|710 2182!710 2182|3573 2182!3573 2182|2808 651!2808 651|1129 902!1129 902|458 50!458 50|458 49!458 49|34 637"/>
+                    <Edge cubics="!2808 651(;2808,651 1129,902 1129,902q2808 651p1129 902);"/>
+                    <Edge cubics="!1129 902(;1129,902 458,50 458,50q1129 902p458 50);"/>
+                    <Edge cubics="!458 50(;458,50 458,49 458,49q458 50p458 49);"/>
+                    <Edge cubics="!458 49(;458,49 34,637 34,637q458 49p34 637);"/>
+                    <Edge cubics="!34 637(;34,637 710,2182 710,2182q34 637p710 2182);"/>
+                    <Edge cubics="!710 2182(;710,2182 3573,2182 3573,2182q710 2182p3573 2182);"/>
+                    <Edge cubics="!3573 2182(;3573,2182 2808,651 2808,651q3573 2182p2808 651);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

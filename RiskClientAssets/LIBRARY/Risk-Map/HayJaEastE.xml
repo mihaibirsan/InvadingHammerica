@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Risk-Map/HayJaEastE" itemID="4d545121-00000aaf" linkageExportForAS="true" linkageIdentifier="HayJaEastE" linkageBaseClass="risk.ui.Territory" linkageClassName="HayJaEastE" lastModified="1297371719" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="HayJaEastE">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#00983A"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="3" joints="miter" miterLimit="10">
+                        <fill>
+                          <SolidColor color="#1D1D1B"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!2050 893[1590 472 1229 36!1229 36|378 396!378 396|36 2098!36 2098|2020 2382!2020 2382|2964 1647!2964 1647[2447 1256 2050 893"/>
+                    <Edge cubics="!1229 36(;1229,36 378,396 378,396q1229 36 378 396);"/>
+                    <Edge cubics="!378 396(;378,396 36,2098 36,2098q378 396 36 2098);"/>
+                    <Edge cubics="!36 2098(;36,2098 2020,2382 2020,2382q36 2098 2020 2382);"/>
+                    <Edge cubics="!2020 2382(;2020,2382 2964,1647 2964,1647q2020 2382 2964 1647);"/>
+                    <Edge cubics="!2964 1647(;2330,1167 1739,653 1229,36q2964 1647Q2447 1256q2050 893Q1590 472q1229 36);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

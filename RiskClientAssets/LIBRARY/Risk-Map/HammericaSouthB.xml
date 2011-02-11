@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Risk-Map/HammericaSouthB" itemID="4d545121-00000acb" linkageExportForAS="true" linkageIdentifier="HammericaSouthB" linkageBaseClass="risk.ui.Territory" linkageClassName="HammericaSouthB" lastModified="1297371721" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="HammericaSouthB">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E6007E"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="3" joints="miter" miterLimit="10">
+                        <fill>
+                          <SolidColor color="#1D1D1B"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!2623 31|57 117!57 117|977 1406!977 1406|2384 1406!2384 1406|2623 31"/>
+                    <Edge cubics="!2623 31(;2623,31 57,117 57,117q2623 31p57 117);"/>
+                    <Edge cubics="!57 117(;57,117 977,1406 977,1406q57 117p977 1406);"/>
+                    <Edge cubics="!977 1406(;977,1406 2384,1406 2384,1406q977 1406p2384 1406);"/>
+                    <Edge cubics="!2384 1406(;2384,1406 2623,31 2623,31q2384 1406p2623 31);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

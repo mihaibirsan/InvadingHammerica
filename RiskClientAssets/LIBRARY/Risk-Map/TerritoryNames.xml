@@ -1,0 +1,515 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Risk-Map/TerritoryNames" itemID="4d545121-00000af1" lastModified="1297404817" lastUniqueIdentifier="16">
+  <timeline>
+    <DOMTimeline name="TerritoryNames">
+      <layers>
+        <DOMLayer name="Regions" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Risk-Map/HammericaTitle" name="HammericaTitle" blendMode="layer" centerPoint3DX="602.65" centerPoint3DY="259.4">
+                  <matrix>
+                    <Matrix tx="576.55" ty="87.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.8" y="172.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.19921875"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Risk-Map/HammericaNorthTitle" name="HammericaNorthTitle" blendMode="layer" centerPoint3DX="494.85" centerPoint3DY="71.35">
+                  <matrix>
+                    <Matrix tx="455" ty="56.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.85" y="15.6"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.30078125"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Risk-Map/HammericaCentralTitle" name="HammericaCentralTitle" blendMode="layer" centerPoint3DX="414.35" centerPoint3DY="260.35">
+                  <matrix>
+                    <Matrix tx="365.95" ty="245.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="48.4" y="15.6"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.30078125"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Risk-Map/HammericaSouthTitle" name="HammericaSouthTitle" blendMode="layer" centerPoint3DX="487.45" centerPoint3DY="415.35">
+                  <matrix>
+                    <Matrix tx="447.4" ty="400.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.5" y="15.6"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.30078125"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Risk-Map/MousetrailiaTitle" name="MousetrailiaTitle" blendMode="layer" centerPoint3DX="89.35" centerPoint3DY="385.55">
+                  <matrix>
+                    <Matrix tx="3.15" ty="310.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="86.2" y="75.25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.19921875"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Risk-Map/HayJaTitle" name="HayJaTitle" blendMode="layer" centerPoint3DX="108.1" centerPoint3DY="8">
+                  <matrix>
+                    <Matrix tx="47" ty="-24"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="61.05" y="32"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.19921875"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Risk-Map/HayJaWestTitle" name="HayJaWestTitle" blendMode="layer" centerPoint3DX="47" centerPoint3DY="135.65">
+                  <matrix>
+                    <Matrix tx="14" ty="120"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.9" y="15.65"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.30078125"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Risk-Map/HayJaEastTitle" name="HayJaEastTitle" blendMode="layer" centerPoint3DX="187.1" centerPoint3DY="84.75">
+                  <matrix>
+                    <Matrix tx="158" ty="69"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.05" y="15.75"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.30078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Territories" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="7.35" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="368" ty="135.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>A&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="6.5" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="484" ty="113.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>B&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="6.95" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="568.5" ty="154.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>C&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="8" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="417.3" ty="64.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>D&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="6" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="528.65" ty="15.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>E&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="6" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="562.65" ty="86.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>F&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="7.35" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="270.65" ty="247.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>A&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="6.5" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="377.3" ty="209.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>B&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="6.95" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="349.3" ty="302.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>C&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="8" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="474" ty="215.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>D&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="6" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="449.3" ty="321.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>E&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="6" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="574.65" ty="230.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>F&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="7.75" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="554.65" ty="327.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>G&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="7.35" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="380.65" ty="400.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>A&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="6.5" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="438" ty="443.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>B&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="6.95" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="537.15" ty="390.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>C&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="8" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="530.65" ty="437.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>D&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="7.35" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="17.3" ty="3.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>A&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="6.5" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="8" ty="76.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>B&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="6.95" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="68.65" ty="69.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>C&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="8" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="36" ty="166.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>D&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="7.35" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="191.3" ty="3.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>A&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="6.5" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="140.65" ty="58.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>B&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="6.95" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="244" ty="53.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>C&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="8" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="213.3" ty="108.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>D&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="6" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="140" ty="153.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>E&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="7.35" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="363.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>A&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="6.5" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="61.3" ty="376.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>B&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="6.95" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="24.65" ty="429.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>C&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="8" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="160.65" ty="374.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>D&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="6" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="188.65" ty="441.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>E&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.329411764705882" lineSpacing="0" bitmapSize="240" face="MyriadPro-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

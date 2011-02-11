@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Risk-Map/HammericaSouthC" itemID="4d545121-00000ac9" linkageExportForAS="true" linkageIdentifier="HammericaSouthC" linkageBaseClass="risk.ui.Territory" linkageClassName="HammericaSouthC" lastModified="1297371721" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="HammericaSouthC">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E6007E"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="3" joints="miter" miterLimit="10">
+                        <fill>
+                          <SolidColor color="#1D1D1B"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!4255 2436|4255 32!4255 32|77 188!77 188|629 668!629 668|2819 811!2819 811|3529 2436!3529 2436|4255 2436"/>
+                    <Edge cubics="!4255 32(;4255,32 77,188 77,188q4255 32p77 188);"/>
+                    <Edge cubics="!77 188(;77,188 629,668 629,668q77 188p629 668);"/>
+                    <Edge cubics="!629 668(;629,668 2819,811 2819,811q629 668p2819 811);"/>
+                    <Edge cubics="!2819 811(2819,811;2819,811 3529,2436 3529,2436q2819 811p3529 2436);"/>
+                    <Edge cubics="!3529 2436(;3529,2436 4255,2436 4255,2436q3529 2436p4255 2436);"/>
+                    <Edge cubics="!4255 2436(4255,2436;4255,2436 4255,32 4255,32q4255 2436p4255 32);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

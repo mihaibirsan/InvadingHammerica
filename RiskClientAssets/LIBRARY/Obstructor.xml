@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Obstructor" itemID="4d54bde2-00000bbd" sourceLibraryItemHRef="Symbol 1" lastModified="1297399266">
+  <timeline>
+    <DOMTimeline name="Obstructor">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-29.8"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0.898039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!13396 12800|596 12800!596 12800|596 0!596 0|13396 0!13396 0|13396 12800"/>
+                    <Edge cubics="!13396 12800(;13396,12800 596,12800 596,12800q13396 12800p596 12800);"/>
+                    <Edge cubics="!596 12800(;596,12800 596,0 596,0q596 12800p596 0);"/>
+                    <Edge cubics="!596 0(;596,0 13396,0 13396,0q596 0p13396 0);"/>
+                    <Edge cubics="!13396 0(;13396,0 13396,12800 13396,12800q13396 0p13396 12800);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

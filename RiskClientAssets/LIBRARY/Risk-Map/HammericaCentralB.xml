@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Risk-Map/HammericaCentralB" itemID="4d545121-00000adb" linkageExportForAS="true" linkageIdentifier="HammericaCentralB" linkageBaseClass="risk.ui.Territory" linkageClassName="HammericaCentralB" lastModified="1297371723" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="HammericaCentralB">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#27348B"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="3" joints="miter" miterLimit="10">
+                        <fill>
+                          <SolidColor color="#1D1D1B"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!2304 127|45 32!45 32|726 1747!726 1747|2244 1918!2244 1918|2304 127"/>
+                    <Edge cubics="!2304 127(;2304,127 45,32 45,32q2304 127p45 32);"/>
+                    <Edge cubics="!45 32(;45,32 726,1747 726,1747q45 32p726 1747);"/>
+                    <Edge cubics="!726 1747(726,1747;726,1747 2244,1918 2244,1918q726 1747 2244 1918);"/>
+                    <Edge cubics="!2244 1918(;2244,1918 2304,127 2304,127q2244 1918 2304 127);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

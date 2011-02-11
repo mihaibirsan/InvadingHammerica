@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Risk-Map/HammericaNorthA" itemID="4d545121-00000aeb" linkageExportForAS="true" linkageIdentifier="HammericaNorthA" linkageBaseClass="risk.ui.Territory" linkageClassName="HammericaNorthA" lastModified="1297371724" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="HammericaNorthA">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E30613"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="3" joints="miter" miterLimit="10">
+                        <fill>
+                          <SolidColor color="#1D1D1B"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!54 1944|3085 2071!3085 2071|1735 1059!1735 1059|1308 63!1308 63|54 1944"/>
+                    <Edge cubics="!1308 63(;1308,63 54,1944 54,1944q1308 63p54 1944);"/>
+                    <Edge cubics="!54 1944(;54,1944 3085,2071 3085,2071q54 1944p3085 2071);"/>
+                    <Edge cubics="!3085 2071(3085,2071;3085,2071 1735,1059 1735,1059q3085 2071p1735 1059);"/>
+                    <Edge cubics="!1735 1059(;1735,1059 1308,63 1308,63q1735 1059 1308 63);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

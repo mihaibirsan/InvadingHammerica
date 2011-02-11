@@ -1,0 +1,207 @@
+{
+    "regions": {
+        "HammericaNorth": {
+            "armyBonus": 4,
+            "territories": [
+                "HammericaNorthA",
+                "HammericaNorthB",
+                "HammericaNorthC",
+                "HammericaNorthD",
+                "HammericaNorthE",
+                "HammericaNorthF"
+            ]
+        },
+        "HammericaCentral": {
+            "armyBonus": 6,
+            "territories": [
+                "HammericaCentralA",
+                "HammericaCentralB",
+                "HammericaCentralC",
+                "HammericaCentralD",
+                "HammericaCentralE",
+                "HammericaCentralF",
+                "HammericaCentralG"
+            ]
+        },
+        "HammericaSouth": {
+            "armyBonus": 3,
+            "territories": [
+                "HammericaSouthA",
+                "HammericaSouthB",
+                "HammericaSouthC",
+                "HammericaSouthD"
+            ]
+        },
+        "HayJaWest": {
+            "armyBonus": 3,
+            "territories": [
+                "HayJaWestA",
+                "HayJaWestB",
+                "HayJaWestC",
+                "HayJaWestD"
+            ]
+        },
+        "HayJaEast": {
+            "armyBonus": 4,
+            "territories": [
+                "HayJaEastA",
+                "HayJaEastB",
+                "HayJaEastC",
+                "HayJaEastD",
+                "HayJaEastE"
+            ]
+        },
+        "Mousetrailia": {
+            "armyBonus": 3,
+            "territories": [
+                "MousetrailiaA",
+                "MousetrailiaB",
+                "MousetrailiaC",
+                "MousetrailiaD",
+                "MousetrailiaE"
+            ]
+        }
+    }
+    "borders": {
+        "HammericaNorthA": {
+            "HammericaNorthB": true, 
+            "HammericaNorthD": true,
+            "HammericaCentralB": true,
+            "HammericaCentralD": true,
+            "HayJaEastC": true,
+            "HayJaEastD": true
+        },
+        "HammericaNorthB": {
+            "HammericaNorthC": true,
+            "HammericaNorthD": true,
+            "HammericaNorthE": true,
+            "HammericaNorthF": true,
+            "HammericaCentralD": true
+        },
+        "HammericaNorthC": {
+            "HammericaNorthF": true,
+            "HammericaCentralD": true,
+            "HammericaCentralF": true
+        },
+        "HammericaNorthD": {
+            "HammericaNorthE": true,
+            "HayJaEastC": true
+        },
+        "HammericaNorthE": {
+            "HammericaNorth-F: true
+        },
+        "HammericaNorthF": {
+        },
+        "HammericaCentralA": {
+            "HammericaCentralB": true,
+            "HammericaCentralC": true,
+            "HayJaEastD": true,
+            "HayJaEastE": true,
+            "MousetrailiaD": true
+        },
+        "HammericaCentralB": {
+            "HammericaCentralC": true,
+            "HammericaCentralD": true
+        },
+        "HammericaCentralC": {
+            "HammericaCentralE": true,
+            "HammericaSouthA": true,
+            "MousetrailiaD": true
+        },
+        "HammericaCentralD": {
+            "HammericaCentralE": true,
+            "HammericaCentralF": true
+        },
+        "HammericaCentralE": {
+            "HammericaCentralF": true,
+            "HammericaCentralG": true,
+            "HammericaSouthA": true,
+            "HammericaSouthC": true
+        },
+        "HammericaCentralF": {
+            "HammericaCentralG": true
+        },
+        "HammericaCentralG": {
+            "HammericaSouthC": true
+        },
+        "HammericaSouthA": {
+            "HammericaSouthB": true,
+            "HammericaSouthC": true,
+            "HammericaSouthD": true,
+            "MousetrailiaE": true
+        },
+        "HammericaSouthB": {
+            "HammericaSouthD": true,
+            "MousetrailiaB": true
+        },
+        "HammericaSouthC": {
+            "HammericaSouthD": true
+        },
+        "HammericaSouthD": {
+        },
+        "HayJaWestA": {
+            "HayJaWestB": true,
+            "HayJaWestC": true,
+            "HayJaEastA": true
+        },
+        "HayJaWestB": {
+            "HayJaWestC": true,
+            "HayJaWestD": true
+        },
+        "HayJaWestC": {
+            "HayJaWestD": true,
+            "HayJaEastA": true,
+            "HayJaEastB": true,
+            "HayJaEastE": true
+        },
+        "HayJaWestD": {
+            "HayJaEastE": true, 
+            "MousetrailiaA": true,
+            "MousetrailiaB": true
+        },
+        "HayJaEastA": {
+            "HayJaEastB": true,
+            "HayJaEastC": true
+        },
+        "HayJaEastB": {
+            "HayJaEastC": true,
+            "HayJaEastD": true,
+            "HayJaEastE": true
+        },
+        "HayJaEastC": {
+            "HayJaEastD": true
+        },
+        "HayJaEastD": {
+            "HayJaEastE": true
+        },
+        "HayJaEastE": {
+            "MousetrailiaB": true
+        },
+        "MousetrailiaA": {
+            "MousetrailiaB": true,
+            "MousetrailiaC": true
+        },
+        "MousetrailiaB": {
+            "MousetrailiaC": true,
+            "MousetrailiaD": true,
+            "MousetrailiaE": true
+        },
+        "MousetrailiaC": {
+            "MousetrailiaE": true
+        },
+        "MousetrailiaD": {
+            "MousetrailiaE": true
+        },
+        "MousetrailiaE": {
+        }
+    },
+    "armyBonusPerOwnedTerritories": {
+        "6": 3,
+        "12": 5,
+        "19": 7,
+        "25": 4,
+        "31": 2
+    },
+    "ghostPerArmyChance": .6,
+    "goldPerArmyRatio": .8
+}

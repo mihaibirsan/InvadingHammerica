@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Risk-Map/HammericaNorthB" itemID="4d545121-00000ae9" linkageExportForAS="true" linkageIdentifier="HammericaNorthB" linkageBaseClass="risk.ui.Territory" linkageClassName="HammericaNorthB" lastModified="1297371724" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="HammericaNorthB">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E30613"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="3" joints="miter" miterLimit="10">
+                        <fill>
+                          <SolidColor color="#1D1D1B"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!1856 30|56 1030!56 1030|1406 2042!1406 2042|1951 2065!1951 2065|3456 1230!3456 1230|2656 30!2656 30|1856 30"/>
+                    <Edge cubics="!1856 30(1856,30;1856,30 56,1030 56,1030q1856 30p56 1030);"/>
+                    <Edge cubics="!56 1030(;56,1030 1406,2042 1406,2042q56 1030p1406 2042);"/>
+                    <Edge cubics="!1406 2042(1406,2042;1406,2042 1951,2065 1951,2065q1406 2042p1951 2065);"/>
+                    <Edge cubics="!1951 2065(;1951,2065 3456,1230 3456,1230q1951 2065p3456 1230);"/>
+                    <Edge cubics="!3456 1230(;3456,1230 2656,30 2656,30q3456 1230p2656 30);"/>
+                    <Edge cubics="!2656 30(2656,30;2656,30 1856,30 1856,30q2656 30p1856 30);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

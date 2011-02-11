@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Risk-Map/HammericaNorthE" itemID="4d545121-00000ae3" linkageExportForAS="true" linkageIdentifier="HammericaNorthE" linkageBaseClass="risk.ui.Territory" linkageClassName="HammericaNorthE" lastModified="1297371723" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="HammericaNorthE">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E30613"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="3" joints="miter" miterLimit="10">
+                        <fill>
+                          <SolidColor color="#1D1D1B"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!4622 30|654 30!654 30|37 954!37 954|1300 2397!1300 2397|2100 2397!2100 2397|4622 2216!4622 2216|4622 30"/>
+                    <Edge cubics="!2100 2397(;2100,2397 4622,2216 4622,2216q2100 2397p4622 2216);"/>
+                    <Edge cubics="!4622 2216(;4622,2216 4622,30 4622,30q4622 2216p4622 30);"/>
+                    <Edge cubics="!4622 30(4622,30;4622,30 654,30 654,30q4622 30p654 30);"/>
+                    <Edge cubics="!654 30(;654,30 37,954 37,954q654 30p37 954);"/>
+                    <Edge cubics="!37 954(;37,954 1300,2397 1300,2397q37 954p1300 2397);"/>
+                    <Edge cubics="!1300 2397(1300,2397;1300,2397 2100,2397 2100,2397q1300 2397p2100 2397);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

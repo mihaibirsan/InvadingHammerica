@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Risk-Map/HammericaSouthA" itemID="4d545121-00000acd" linkageExportForAS="true" linkageIdentifier="HammericaSouthA" linkageBaseClass="risk.ui.Territory" linkageClassName="HammericaSouthA" lastModified="1297371721" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="HammericaSouthA">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E6007E"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="3" joints="miter" miterLimit="10">
+                        <fill>
+                          <SolidColor color="#1D1D1B"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!2108 30|964 74!964 74|50 294!50 294|547 989!547 989|3113 903!3113 903|2108 30"/>
+                    <Edge cubics="!2108 30(;2108,30 964,74 964,74q2108 30p964 74);"/>
+                    <Edge cubics="!964 74(;964,74 50,294 50,294q964 74p50 294);"/>
+                    <Edge cubics="!50 294(;50,294 547,989 547,989q50 294p547 989);"/>
+                    <Edge cubics="!547 989(;547,989 3113,903 3113,903q547 989p3113 903);"/>
+                    <Edge cubics="!3113 903(;3113,903 2108,30 2108,30q3113 903p2108 30);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
